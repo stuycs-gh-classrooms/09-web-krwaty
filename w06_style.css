@@ -6,4 +6,5 @@ ul {border: 2px dashed #f75490;
 a {font-weight: bold;}
 p {font-family: arial;
   font-size: 14px;}
-img {height: 400px;}
+img {height: 400px;
+    border: 2px solid #f75490;}
