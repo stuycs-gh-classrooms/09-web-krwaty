@@ -1,4 +1,5 @@
 body {background-color: #a0aaf2;}
 h1 {text-align: center;
 color: #fa87ca;}
-ul {border: 2px solid #f75490;}
+ul {border: 2px dash #f75490;
+   width: 200px}
