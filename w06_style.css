@@ -1,5 +1,4 @@
-html {background-color: #a0aaf2;
-     font-family: quicksand;}
+body {background-color: #a0aaf2;}
 h1 {text-align: center;
 color: #f29bce;}
-p {border: 2px dash #f75490}
+p {border: 2px solid #f75490;}
