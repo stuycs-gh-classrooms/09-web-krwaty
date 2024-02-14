@@ -1,3 +1,5 @@
-html {background-color: #a0aaf2;}
+html {background-color: #a0aaf2;
+     font-family: quicksand;}
 h1 {text-align: center;
-color: #fccae7;}
+color: #f29bce;}
+ul {border: 2px dash #f75490}
