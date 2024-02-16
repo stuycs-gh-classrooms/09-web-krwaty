@@ -1,3 +1,5 @@
 html {background-color: #ffdbbd;
 font-family: sans-serif;}
-
+h1, img {
+text-align: center;}
+img {border: 3px solid #ff9740;}
