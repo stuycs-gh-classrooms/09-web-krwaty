@@ -1,5 +1,9 @@
 html {background-color: #ffdbbd;
 font-family: sans-serif;}
-h1, img {
+h1 {
 text-align: center;}
-img {border: 3px solid #ff9740;}
+img {border: 3px solid #ff9740;
+margin: auto;
+display: block;}
+li {display: inline;
+text-align: center;}
