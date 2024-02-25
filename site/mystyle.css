@@ -10,4 +10,3 @@ nav {border-bottom: 1px solid black;}
 .crumb a::after {display: inline;
   content: '>';
   padding: 0 3px;}
-.ima {float: left;}
