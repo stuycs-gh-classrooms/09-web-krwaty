@@ -1,7 +1,8 @@
 html {background-color: #ffdbbd;
 font-family: sans-serif;}
 h1 {text-align: center;}
-img {border: 3px solid #ff9740;}
+img {border: 3px solid #ff9740;
+    margin: auto;}
 ul, li {text-align: center;}
 nav {border-bottom: 1px solid black;}
 .crumb {display: inline;}
