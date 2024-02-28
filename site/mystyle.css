@@ -10,7 +10,7 @@ border-top: 1px dotted white;
 border-bottom: 1px dotted white;
 }
 
-.crumbs ul {
+.crumbs ol {
   list-style-type: none;
   padding-left: 0;
 }
