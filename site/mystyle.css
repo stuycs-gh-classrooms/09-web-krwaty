@@ -15,11 +15,11 @@ border-bottom: 1px dotted white;
   padding-left: 0;
 }
 
-.crumb {
+.crumbs {
   display: inline-block;
 }
 
-.crumb a::after {
+.crumbs a::after {
   display: inline-block;
   color: #000;
   content: '|';
