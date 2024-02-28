@@ -4,20 +4,18 @@ h1 {text-align: center;}
 img {border: 3px solid #ff9740;
     margin: auto;
     display: block;}
-.ima {float: left;}
+.ima {float: left;
+     padding-right: 3px;}
 nav {
 border-top: 1px dotted white;
-border-bottom: 1px dotted white;
-}
+border-bottom: 1px dotted white;}
 
 .crumbs ol {
   list-style-type: none;
-  padding-left: 0;
-}
+  padding-left: 0;}
 
 .crumbs {
-  display: inline-block;
-}
+  display: inline-block;}
 
 .crumbs a::after {
   display: inline-block;
@@ -25,5 +23,4 @@ border-bottom: 1px dotted white;
   content: '|';
   font-size: 80%;
   font-weight: bold;
-  padding: 0 3px;
-}
+  padding: 0 3px;}
