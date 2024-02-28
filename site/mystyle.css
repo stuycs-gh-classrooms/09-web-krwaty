@@ -1,23 +1,25 @@
 html {background-color: #ffdbbd;
 font-family: sans-serif;}
+
 h1 {text-align: center;}
+
 img {border: 3px solid #ff9740;
     margin: auto;
     display: block;}
+
 .ima {float: left;}
-nav {
-border-top: 1px dotted white;
+
+.texto {padding-right: 5px;}
+
+nav {border-top: 1px dotted white;
 border-bottom: 1px dotted white;}
 
-.crumbs ol {
-  list-style-type: none;
+.crumbs ol {list-style-type: none;
   padding-left: 0;}
 
-.crumbs {
-  display: inline-block;}
+.crumbs {display: inline-block;}
 
-.crumbs a::after {
-  display: inline-block;
+.crumbs a::after {display: inline-block;
   color: #000;
   content: '|';
   font-size: 80%;
