@@ -4,8 +4,7 @@ h1 {text-align: center;}
 img {border: 3px solid #ff9740;
     margin: auto;
     display: block;}
-.ima {float: left;
-     padding-right: 3px;}
+.ima {float: left;}
 nav {
 border-top: 1px dotted white;
 border-bottom: 1px dotted white;}
